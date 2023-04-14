@@ -1,0 +1,14 @@
+<!DOCTYPE>
+<lang="es">
+<html>
+ <head>
+ <title>¡Hola Mundo!</title>
+ <!-- Aquí va la información del head de tu página web, tales como enlaces, escripts, o los meta -->
+ </head>
+ <body>
+  
+ 
+¡Hola Mundo!
+ 
+ </body>
+</html>
