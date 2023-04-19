@@ -1,3 +1,0 @@
-img.imImagePNG {visibility: hidden; behavior: url("res/iebehavior.htc")}
-#imShowBoxBG {position: absolute; top: 0; left: 0; width: 100%; height: expression((document.documentElement ? document.documentElement.clientHeight + document.documentElement.scrollTop : document.body.clientHeight) + 'px'); }
-#imShowBoxContainer {position: absolute; }
